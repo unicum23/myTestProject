@@ -1,3 +1,5 @@
 code1
 code2
 добавили новую фичу 1
+hotfix bug1
+hotfix bug2
