@@ -1,2 +1,4 @@
 code1
 code2
+hotfix bug1
+hotfix bug2
